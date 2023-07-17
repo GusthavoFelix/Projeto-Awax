@@ -4,4 +4,4 @@ O site está totalmente responsivo tanto para tablet quanto para smartphone.
 
 Para conferir o trabalho feito, você pode baixar os arquivos ou clicar no link abaixo :)
 
-[Projeto Awax](https://[https://gusthavofelix.github.io/Projeto-Awax/]
+[Projeto Awax](https://gusthavofelix.github.io/Projeto-Awax/)
